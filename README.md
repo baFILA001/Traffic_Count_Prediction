@@ -41,14 +41,14 @@ pip install pandas numpy matplotlib seaborn dataprep scikit-learn xgboost
 ```
 ## Script Explanation
 
-pandas and numpy: Python libraries for data manipulation and numerical operations.
-matplotlib and seaborn: Libraries for data visualization.
-dataprep.eda.create_report: A function from the dataprep library for generating an exploratory data analysis (EDA) report.
-sklearn: The scikit-learn library for machine learning tasks.
-xgboost: A gradient boosting library for machine learning.
-MLPRegressor: A neural network regressor from scikit-learn.
-Various regressors like LinearRegression, Lasso, Ridge, DecisionTreeRegressor, RandomForestRegressor for modeling.
-Various metrics for evaluating the models: mean_squared_error, mean_absolute_error, r2_score.
-Various scalers and encoders for preprocessing the data: RobustScaler, MinMaxScaler, LabelEncoder, StandardScaler.
+- pandas and numpy: Python libraries for data manipulation and numerical operations.
+- matplotlib and seaborn: Libraries for data visualization.
+- dataprep.eda.create_report: A function from the dataprep library for generating an exploratory data analysis (EDA) report.
+- sklearn: The scikit-learn library for machine learning tasks.
+- xgboost: A gradient boosting library for machine learning.
+- MLPRegressor: A neural network regressor from scikit-learn.
+- Various regressors like LinearRegression, Lasso, Ridge, DecisionTreeRegressor, RandomForestRegressor for modeling.
+- Various metrics for evaluating the models: mean_squared_error, mean_absolute_error, r2_score.
+- Various scalers and encoders for preprocessing the data: RobustScaler, MinMaxScaler, LabelEncoder, StandardScaler.
 
 
