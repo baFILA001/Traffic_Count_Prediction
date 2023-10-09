@@ -41,7 +41,7 @@ pip install pandas numpy matplotlib seaborn dataprep scikit-learn xgboost
 ```
 ## Script Explanation
 
-- pandas and numpy: Python libraries for data manipulation and numerical operations.
+- **pandas and numpy:** Python libraries for data manipulation and numerical operations.
 - matplotlib and seaborn: Libraries for data visualization.
 - dataprep.eda.create_report: A function from the dataprep library for generating an exploratory data analysis (EDA) report.
 - sklearn: The scikit-learn library for machine learning tasks.
